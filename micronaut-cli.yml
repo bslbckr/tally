@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.guc
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, config4k, http-client, jackson-databind, jax-rs, jdbc-hikari, jooq, kotest, kotlin, kotlin-application, kotlin-extension-functions, liquibase, logback, maven, micronaut-aot, mockk, mysql, netty-server, reactor, reactor-http-client, readme, shade, test-resources]
